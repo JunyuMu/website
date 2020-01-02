@@ -21,12 +21,19 @@ function Home() {
           <h2>Portfolios</h2>
           <ul>
             <li>
-              <p>A simple but elegant blogging platform.</p>
               <p>
-                <a href="///note.ink" target="_blank">
-                  note.ink
-                </a>
+                <strong>2019</strong>
               </p>
+              <ul>
+                <li>
+                  <p>A simple but elegant blogging platform.</p>
+                  <p>
+                    <a href="///note.ink" target="_blank">
+                      note.ink
+                    </a>
+                  </p>
+                </li>
+              </ul>
             </li>
           </ul>
         </section>
@@ -37,10 +44,14 @@ function Home() {
               <a href="mailto:me@junyu.dev">me@junyu.dev</a>
             </li>
             <li>
-              <a href="///note.ink/@Junyu">note.ink</a>
+              <a href="///note.ink/@Junyu" target="_blank">
+                note.ink
+              </a>
             </li>
             <li>
-              <a href="https://github.com/JunyuMu">Github</a>
+              <a href="https://github.com/JunyuMu" target="_blank">
+                Github
+              </a>
             </li>
           </ul>
         </section>
