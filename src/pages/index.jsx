@@ -22,6 +22,22 @@ function Home() {
           <ul>
             <li>
               <p>
+                <strong>2020</strong>
+              </p>
+              <ul>
+                <li>
+                  <p>Remake{" "}
+                    <a href="///note.ink" target="_blank">
+                      note.ink
+                    </a>.
+                  </p>
+                </li>
+              </ul>
+            </li>
+          </ul>
+          <ul>
+            <li>
+              <p>
                 <strong>2019</strong>
               </p>
               <ul>
